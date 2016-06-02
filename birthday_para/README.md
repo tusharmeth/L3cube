@@ -1,4 +1,2 @@
-# L3cube
-problems for round 2
-group members:-
-tushar methwani
+birthday paradox
+calculate probability mathematically and verifies by practical simulation
