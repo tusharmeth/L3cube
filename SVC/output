@@ -1,0 +1,26 @@
+shivanee@shivanee-Inspiron-5521:~$ python svc.py
+svc is Simple Version Control System. which keep track on single file .
+Options Available : 
+1) svc FILENAME commit file
+2) svc N display version number
+shivanee@shivanee-Inspiron-5521:~$ python svc.py xyz.txt
+comminting
+ h d g c b s r v a x u b e d n m o p q a d x c  b r c d w f h   yyy zzz iiii 
+
+ h d g c b s r v a x u b e d n m o p q a d x c  b r c d w f h   yyy zzz iiii 
+
+already commited!!!
+shivanee@shivanee-Inspiron-5521:~$ python svc.py xyz.txt
+comminting
+ h d g c b s r v a x u b e d n m o p q a d x c  b r c d w f h   yyy zzz iiii 
+
+ h d g c b s r v a x u b e d n m o p q a d x c  b r c d w f h   yyy zzz iiii 
+
+already commited!!!
+shivanee@shivanee-Inspiron-5521:~$ python svc.py 4
+4  h d g c b s r v a x u b e d n m o p q a d x c  b r c d w f h   yyy zzz iiii 
+
+shivanee@shivanee-Inspiron-5521:~$ python svc.py 3
+3  h d g c b s r v a x u b e d n m o p q a d x c  b r c d w f h   yyy zzz  
+
+
