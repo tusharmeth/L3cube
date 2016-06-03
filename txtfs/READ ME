@@ -1,0 +1,10 @@
+TXTFS (txtfs.py)
+1.  Application will only create/copy/print *text* files
+
+2. Application will only allow copying contents from external 
+   files(eg : /usr/readme.txt can be copied to readme.txt created by the application); 
+   it won't allow editing of contents.
+
+3. Application will act as a command interpreter and accept only five commands 
+   create, copy, echo, ls  and delete with relevant parameters ; all text files directly
+   go into Textfs without any folder structure.
