@@ -1,0 +1,24 @@
+shivanee@shivanee-Inspiron-5521:~/txtfs$ python txtfs.py 
+svc is Simple Version Control System. which keep track on single file .
+Options Available : 
+1) txtfs SOURCE NAMEOFFILE
+2) txtfs ls
+3) txtfs FILENUMBER
+shivanee@shivanee-Inspiron-5521:~/txtfs$ python txtfs.py ghi.txt
+creating
+ pict 
+
+shivanee@shivanee-Inspiron-5521:~/txtfs$ python txtfs.py ls
+xyz.txt
+xyz1.txt
+ttt.txt
+abc.txt
+ghi.txt
+
+shivanee@shivanee-Inspiron-5521:~/txtfs$ python txtfs.py 5
+ pict 
+
+shivanee@shivanee-Inspiron-5521:~/txtfs$ python txtfs.py 2
+ hey  this is txtfs trial 
+
+
