@@ -14,7 +14,7 @@ class SVC:
 				else:
 					self.commit()
 	def commit(self):
-			print "comminting"
+			print "commiting"
 			file1=open(sys.argv[1],"r+")	
 			fileTemp=""			
 			try:
